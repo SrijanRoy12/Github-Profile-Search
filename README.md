@@ -1,23 +1,70 @@
-🔍 The app allows users to search for any GitHub username and instantly view detailed profile information like:
+🔍 GitHub User Finder
 
-Profile image
+A modern and stylish web app that allows you to search and explore GitHub user profiles in real time using the GitHub API. Built with HTML, Tailwind CSS, and JavaScript.
 
-Name & bio
+✨ Features
 
-Public repositories
+🔎 Search any GitHub username
 
-Followers & following
+👤 View profile details:
 
-Company, blog, and location
+Avatar
 
-A list of their latest repositories
+Name & Username
 
-👩‍💻 This project helped me understand how real-time API integration works and how important UI/UX is when displaying data dynamically. I chose a light pink and white theme to break away from the usual dark designs and give it a refreshing and friendly look!
+Bio
 
-✨ Tools Used:
+Followers & Following
 
-HTML, CSS (Tailwind)
+Public Repositories
 
-JavaScript (Vanilla)
+Location, Company, Blog
 
-GitHub API
+📂 See user’s repositories list
+
+🎨 Beautiful blue-gradient UI with responsive design
+
+⚡ Smooth animations and hover effects
+
+🛠️ Tech Stack
+
+Frontend: HTML, Tailwind CSS
+
+Logic: JavaScript (Fetch API)
+
+API: GitHub REST API
+
+📂 Project Structure
+GitHub-User-Finder/
+│── index.html        # Main page
+│── script.js         # API fetching & DOM updates
+│── README.md         # Documentation
+
+⚙️ Setup & Usage
+
+Clone this repository
+
+git clone https://github.com/your-username/GitHub-User-Finder.git
+cd GitHub-User-Finder
+
+
+Open the project
+
+Simply open index.html in your browser
+
+Search a username
+
+Enter a GitHub username and hit Search
+
+
+🚀 Deployment (GitHub Pages)
+
+Push your code to GitHub
+
+Go to Repo Settings → Pages
+
+Set branch = main and folder = /root
+
+Your app will be live at:
+
+https://your-username.github.io/GitHub-User-Finder/
